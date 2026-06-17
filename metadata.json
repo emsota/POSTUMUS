@@ -1,0 +1,9 @@
+{
+  "name": "Postumus",
+  "description": "A silent archival container for documenting lost creative processes, diagnosing skill deterioration, and reflecting on the digital mourning of abandoned projects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
